@@ -1,3 +1,10 @@
+# 在manjaro中
+
+安装依赖
+```
+yay -S qt5-3d qt5-charts qt5-quickcontrols2 
+```
+
 # Rust + Qt examples
 
 [![Build Status](https://travis-ci.com/rust-qt/examples.svg?branch=master)](https://travis-ci.com/rust-qt/examples)
